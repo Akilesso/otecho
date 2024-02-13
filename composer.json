@@ -1,11 +1,16 @@
 {
-    "name": "otus/echo",
-    "type": "library",
-    "authors": [
-        {
-            "name": "Arkadiy Kilesso",
-            "email": "kilessoa@gmail.com"
-        }
-    ],
-    "require": {}
+  "autoload": {
+    "psr-4": {
+      "Otecho\\": "/"
+    }
+  },
+  "name": "otus/echo",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Arkadiy Kilesso",
+      "email": "kilessoa@gmail.com"
+    }
+  ],
+  "require": {}
 }
