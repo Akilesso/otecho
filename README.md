@@ -6,7 +6,7 @@
 ## Install
 
 ```bash
-composer require akilesso/otus-echo
+composer require akilesso/otecho
 ```
 
 ## Usage
