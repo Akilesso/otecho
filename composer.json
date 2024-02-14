@@ -12,5 +12,7 @@
       "email": "kilessoa@gmail.com"
     }
   ],
-  "require": {}
+  "require": {
+    'php': ">=7.0"
+  }
 }
